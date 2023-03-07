@@ -2,7 +2,7 @@
 title: "Week8"
 author: "Shreyansi Jain"
 date: "2023-03-07"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
